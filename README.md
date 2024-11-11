@@ -4,3 +4,4 @@ learn js and mern
 
 
 --- html
+--- davinci resolve
