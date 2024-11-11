@@ -9,3 +9,5 @@ learn js and mern
 
 --- Language dtype variable
 --- create border using CSS round
+
+--- perform CRUD operarions to login page --- Add user / retrieve / update / delete operations
