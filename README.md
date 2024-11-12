@@ -16,8 +16,8 @@ learn js and mern
 --- ctrl c to terminal 
 --- npm start to staret the process
 --- Java maven Dependencies 
---- 
----
+---  PIP
+--- NPM node package manager NOde js / package.json - use npm install
 ---
 ---
 
