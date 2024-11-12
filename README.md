@@ -19,7 +19,7 @@ learn js and mern
 ---  PIP
 --- NPM node package manager NOde js / package.json - use npm install
 --- PORT NUMBER JWT TOKENS are stor API and cloud leys are stored in .env file / require('dotenv').config() / dotenv' is package
----
+--- mongo DB shell is CML / mongo DB COMPASS is IDE
 ---
 ---
 ---
