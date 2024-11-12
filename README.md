@@ -13,3 +13,5 @@ learn js and mern
 --- perform CRUD operarions to login page --- Add user / retrieve / update / delete operations
 --- ide support sysytem SDK 
 --- git is for local tracking
+--- ctrl c to terminal 
+--- npm start to staret the process
