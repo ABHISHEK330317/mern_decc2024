@@ -13,11 +13,11 @@ learn js and mern
 --- perform CRUD operarions to login page --- Add user / retrieve / update / delete operations
 --- ide support sysytem SDK 
 --- git is for local tracking
---- ctrl c to terminal 
+--- ctrl c to terminate the current process
 --- npm start to staret the process
 --- Java maven Dependencies 
 ---  PIP
 --- NPM node package manager NOde js / package.json - use npm install
----
+--- 
 ---
 
