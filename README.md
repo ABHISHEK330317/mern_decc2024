@@ -15,3 +15,9 @@ learn js and mern
 --- git is for local tracking
 --- ctrl c to terminal 
 --- npm start to staret the process
+--- Java maven Dependencies 
+--- 
+---
+---
+---
+
